@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/zhangbaojun/TrafficFlowPrediction-tensorflow/model/my_model"
+all_model_checkpoint_paths: "/home/zhangbaojun/TrafficFlowPrediction-tensorflow/model/my_model"
